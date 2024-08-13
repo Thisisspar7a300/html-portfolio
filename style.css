@@ -1,0 +1,25 @@
+.project{
+    background-color: red;
+    width: 50%; margin: 25%;
+    color: white;
+    border: 5px solid antiquewhite;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+body{
+    background-color: black;
+}
+a{
+    color: white;
+}
+img{
+    width: 80%;
+}
+#birthday{
+   padding-bottom: 5%;
+}
+a{
+    font-size: 20px;
+    text-transform: capitalize;
+}
