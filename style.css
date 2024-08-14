@@ -14,7 +14,9 @@ a{
     color: white;
 }
 img{
-    width: 80%;
+    width: 50%;
+    height: 50%;
+    margin-bottom: 20px;
 }
 #birthday{
    padding-bottom: 5%;
@@ -23,3 +25,11 @@ a{
     font-size: 20px;
     text-transform: capitalize;
 }
+.head{
+    text-transform: uppercase;
+}
+#cake{
+    margin-top: 20px;
+    width: 80%;
+}
+
